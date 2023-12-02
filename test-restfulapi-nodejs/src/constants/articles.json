@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Apple released OS 15 beta",
+        "keyword": "apple, os",
+        "description": "To day Apple released OS 15 beta",
+        "content": "In publishing and graphic design, Lorem   ipsum is a placeholder text",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 2,
+        "title": "Iphone 15 pro",
+        "keyword": "apple, IOS",
+        "description": "iPhone 15 Pro là chiếc iPhone đầu tiên sở hữu thiết kế từ titan chuẩn hàng không vũ trụ",
+        "content": "In publishing and graphic design, Lorem   ipsum is a placeholder text",
+        "date": "2023-09-13"
+    },
+    {
+        "id": 3,
+        "title": "Apple released OS 16 beta",
+        "keyword": "apple, os",
+        "description": "To day Apple released OS 15 beta",
+        "content": "In publishing and graphic design, Lorem   ipsum is a placeholder text",
+        "date": "2023-12-01"
+    }
+]
